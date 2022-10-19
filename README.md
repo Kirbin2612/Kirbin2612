@@ -4,13 +4,27 @@
 **Kirbin2612/Kirbin2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: LE18081090@merida.tecnm.mx
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+Welcome to my profile! I'm a student as well as a student of a ITM
+
+Mehdi's LinkdeInKaggleMehdi's InstagramMehdi's Facebook
+<br>
+💼 I'm pursuing a Bachelor of Computer Systems Engineering
+🤔 My interests are data science and machine learnin
+</br>
+Languages and Tools:
+
+Top Languages
+Top Langs
+
+       
+
+Tapas's Github Stats
+
+GitHub Streak
+hectormanu
+
+Activity Trends
+GitHub Activity Graph
+
+Page Views(Counting since 14th Nov 2022): Visitor Count
